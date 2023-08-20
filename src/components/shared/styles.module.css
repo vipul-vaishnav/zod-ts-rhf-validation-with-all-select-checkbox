@@ -1,0 +1,21 @@
+.label {
+  color: #000 !important;
+  font-weight: 700 !important;
+  font-size: 0.9rem !important;
+  margin-bottom: 0.5rem;
+  display: block;
+  max-width: max-content;
+}
+
+.errorContainer {
+  color: #f03e3e;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0.5rem 0 0 0 !important;
+}
+
+.error {
+  font-size: 0.85rem !important;
+  font-weight: 500 !important;
+}
